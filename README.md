@@ -1,35 +1,70 @@
-<p align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Karol+Marcinski;AI+%7C+Computer+Vision+%7C+Django" alt="Typing SVG" />
-</a>
-<br/>
-
-<a href="https://github.com/CharlieBMF/CharlieBMF/files/11449342/CV.ENG.2023.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-<a href="www.linkedin.com/in/karol-marcinski">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:marcinski.karol@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=F7F7F7&multiline=true&width=500&height=80&lines=Karol+Marcinski;AI+%7C+Computer+Vision+%7C+Django" alt="Typing SVG" />
 </a>
 
-<br/> 
+### :mailbox: How to reach me:
 
-<a href="https://github.com/CharlieBMF">
-    <img src="https://github-stats-alpha.vercel.app/api?username=charliebmf&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+<p align="center">
+    <a href="https://github.com/CharlieBMF/CharlieBMF/files/11449342/CV.ENG.2023.pdf">
+        <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    </a>  
+    <a href="www.linkedin.com/in/karol-marcinski">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:marcinski.karol@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    </a>
 </p>
-  <summary>📈 Stats</summary>
-  <br/>
+    
+### :hammer_and_wrench: Languages and Tools :
+
+<br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="RPI" alt="RPI" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   
-  My Github Stats
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charliebmf&theme=dracula) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charliebmf&theme=dracula) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charliebmf&theme=dracula)
-  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+          
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+### :fire: My Stats :
+
+<p align="center"> 
+ 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charliebmf&theme=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charliebmf&theme=dark">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=charliebmf&theme=dark&background=000000">
+     
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/charliebmf/count.svg" />
+</p>
+
 
 <!-- ### 🖥️ Open-Source Projects
 <table>
