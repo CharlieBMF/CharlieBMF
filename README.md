@@ -15,9 +15,9 @@
 ### :mailbox: How to reach me:
 
 <p align="center">
-    <a href="https://github.com/CharlieBMF/CharlieBMF/files/11449342/CV.ENG.2023.pdf">
+<!--     <a href="https://github.com/CharlieBMF/CharlieBMF/files/11449342/CV.ENG.2023.pdf">
         <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-    </a>  
+    </a>   -->
     <a href="https://www.linkedin.com/in/karol-marcinski">
         <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
     </a>
