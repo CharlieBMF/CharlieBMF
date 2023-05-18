@@ -109,6 +109,7 @@
 | [GUI Drive with me](https://github.com/CharlieBMF/GUI-Drive-Me) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | [Movement Detection](https://github.com/CharlieBMF/OOP-Movement-Detection) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
 | [Card War Game](https://github.com/CharlieBMF/OOP-Card-Game-WAR) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)|
+| [Folium Map](https://github.com/CharlieBMF/FoliumMap-Population-Capitals) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)|
 
   </td></tr></table></div></td></tr></table>
 </div>
