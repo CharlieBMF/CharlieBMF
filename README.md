@@ -1,8 +1,12 @@
-<div align="center" >
+<!--<div align="center" >
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+</div>-->
+<div align="center" >
+  <img src="https://github.com/CharlieBMF/CharlieBMF/assets/109242797/e3c5be66-5af6-413e-a812-2dd473980366" width="600" height="500"/>
 </div>
 
 ---
+
 
 ### :man_technologist: About Me :
 
